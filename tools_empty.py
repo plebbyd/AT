@@ -41,7 +41,7 @@ class DataCropper():
 
     def sort_boxes(self):
 
-    return True
+        return True
 
     def fit_boxes(self):
 
